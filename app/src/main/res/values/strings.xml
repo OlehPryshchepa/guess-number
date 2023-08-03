@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Try to guess number:)</string>
+    <string name="start_button_name">Start game</string>
+    <string name="game_field_text_for_user">Enter number here</string>
+    <string name="game_field_notification_text">Suggestions</string>
+    <string name="game_field_enter_num_button">Confirm</string>
+    <string name="result_button_name">Try again</string>
+    <string name="result_text_view_name">Result message</string>
+</resources>
